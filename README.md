@@ -1,9 +1,13 @@
 # Welcome 👋
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/emreuzun1/)
 
-I am fourth year Software Engineering student at Yaşar University. Also, I am part-time software engineer at Cevher Digital Solutions.
+I am fourth year Software Engineering student at Yaşar University. Also, I am part-time software engineer at Cevher Digital Solutions. I am intersted in new programming languages. Now, I am trying to learn [Solidity](https://docs.soliditylang.org/en/v0.8.13/).
 
-## My Google Store Projects
+## My Projects
+
+### [Twitter Coin Finder](https://github.com/emreuzun1/Twitter-Coin-Finder)
+
+Built with React Native. I used Binance's and Twitter's API. It's an application to find popular and most mentioned cryptocurrencies in specific people in twitter.
 
 ### [Spike Rush](https://play.google.com/store/apps/details?id=com.LambadaDev.SpikeRush)
 
