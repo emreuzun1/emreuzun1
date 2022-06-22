@@ -5,6 +5,10 @@ I am Software Engineer at [Cevher Digital Solutions](https://cevherdigital.com/)
 
 ## My Projects
 
+## [Notebase](https://github.com/emreuzun1/Notebase-Mobile)
+
+This is my final project for school. It's an application for students to share their notes. Also, they can see other student's notes. Also, we supported this application with an AI that can detect if the notes are hand-written or not.
+
 ### [Twitter Coin Finder](https://github.com/emreuzun1/Twitter-Coin-Finder)
 
 Built with React Native. I used Binance's and Twitter's API. It's an application to find popular and most mentioned cryptocurrencies in specific people in twitter.
