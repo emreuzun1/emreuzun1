@@ -1,7 +1,7 @@
 # Welcome 👋
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/emreuzun1/)
 
-I am Software Engineer at [Cevher Digital Solutions](https://cevherdigital.com/). I am intersted in new programming languages. Now, I am trying to learn [Solidity](https://docs.soliditylang.org/en/v0.8.13/).
+I am a Frontend Developer. 
 
 ## My Projects
 
