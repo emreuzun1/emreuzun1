@@ -8,6 +8,10 @@ I am a Frontend Developer. I have started to write code when I was 14. Since the
 
 ## My Projects
 
+## [Vue-Marketplace](https://github.com/emreuzun1/vue-marketplace)
+
+Vue-Marketplace is a marketplace that you can sell or buy Adesso NFT's. This project is made for OKR at Adesso
+
 ## [Notebase](https://github.com/emreuzun1/Notebase-Mobile)
 
 This is my final project for school. It's an application for students to share their notes. Also, they can see other student's notes. Also, we supported this application with an AI that can detect if the notes are hand-written or not.
