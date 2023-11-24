@@ -1,7 +1,7 @@
 # Welcome 👋
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/emreuzun1/)
 
-I am a Frontend Developer. 
+I am a Frontend Developer. I have started to write code when I was 14. Since then, I am trying to be the best, learning whatever I can. 
 
 ## My Projects
 
